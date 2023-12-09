@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Alumnos</string>
+
+    <string name="nombre">Nombre Apel:</string>
+    <string name="txt_nombre">Ingrese el Nombre Completo</string>
+    <string name="carrera">Carrera</string>
+    <string name="txt_carrera">Ingrese los Datos Requeridos</string>
+    <string name="correo">Correo</string>
+    <string name="txt_correo">Introduzca Correo Electronico</string>
+    <string name="telefono">Telefono</string>
+    <string name="txt_telefono">Introduzca Numero de Telefono</string>
+    <string name="ci">CI</string>
+    <string name="txt_ci">Introduzca el Numero de documento</string>
+
+    <string name="btn_guardar">Guardar</string>
+
+</resources>
